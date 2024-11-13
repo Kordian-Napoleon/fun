@@ -2,10 +2,11 @@
 /* CSS Document */
 
 html {
-	font-size: 22px
+	font-size: 22px;
 }
 		
 body {
+	font-family: inter;
 	background-color: #B5C7D3;
 	color: #000000;
 }
